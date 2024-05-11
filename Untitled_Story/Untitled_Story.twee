@@ -1,0 +1,468 @@
+:: StoryTitle
+Untitled Story
+
+
+:: StoryData
+{
+  "ifid": "7FF7D9E8-C6D7-46BD-961D-3BD02055A5F0",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Start",
+  "zoom": 0.6
+}
+
+
+:: (Chase the figure) {"position":"1625,125","size":"100,100"}
+You feel a sudden urge to press forward, following after the figure. You turn the corner and find that the hall runs deep. Were you once familiar with this place? It doesn't matter now. The abyss beckons, as you forget what you were pursuing just a second ago. Distant running echoes down the hall, lost in the void before you. You stare, unblinking, and swear you can almost see something squirm in the darkness. 
+
+(text-colour:#99e9f2)+(text-style:"smear")[[Continue Chasing]]
+
+
+:: (Continue down the passageway) {"position":"875,975","size":"100,100"}
+The walls are rigid with history, though you havent found anything beyond this seemingly endless hallway. You find yourself worried that you're going insane. The drip of the water, the same view of stone floor, wall and ceiling. It's becoming to much to bear, but you have no choice but to continue onward. would you rather be back out in that sandstorm again? of course not. youre smarter than that.
+
+No matter how brave you felt in this moment, nothing could've prepared you for the sound of footsteps behind you. You freeze up, knowing whatever was walking in your direction would most certainly hear any footsteps you made. You can only turn around slowly, staring into the empty darkness, awaiting for whatever it is to reveal itself.
+
+And it does. Two mismatched eyes peer at you from the dark, nearly glowing. You feel petrified under its gaze, finding it hard to even breathe.
+Does it see you? I guess it won't matter, because it is inevitable.
+
+(text-colour:#e9ecef)[End]
+
+
+:: (Continue down the street) {"position":"1425,500","size":"100,100"}
+As you return to the empty streets of the eerily quiet city, you walk for what seems like miles. Time passes to the point where you can't even be bothered to search for anyone around. You are alone. How long have you been alone? Your memory clouds over as you painfully try to recall what happened prior to this very moment. As your tired eyes squint at the floor, you knock your head against something hard. Instinctively, you lash out, swinging your arms in a fit of rage. Who would dare to interrupt you and your thoughts?
+
+(text-colour:#91a7ff)+(text-style:"smear")[[A wall]]
+
+
+:: (Enter the ruins) {"position":"900,825","size":"100,100"}
+You enter the nearest building, one that seems sturdy enough. The passageway that lies before you is covered in dust and cobwebs. As you travel deeper, you notice stalagmites drip water from the ceiling. You nearly stumble as you cup your hands under it, as if accepting a generous offering from this barren wasteland. You know the water could be contaminated, but you'd rather risk it over dehydration.
+
+The water drips on withered stone, small holes in the floor from years of erosion. You could take note of the remnants of this place, and how it resembles an ancient Delta, not too different than your home. But, what do you remember of home?
+
+(text-colour:#91a7ff)+(text-style:"smear")[[(Continue down the passageway)]]
+
+
+:: (Find Shelter) {"position":"875,725","size":"100,100"}
+You trudge onwards, despite the clamouring around you. 
+
+The moon rises before you. The real moon. It truly is beautiful, as it casts a soft glow on the cold, desert sand. The storm continues around you, but for a moment, you find trainquility knowing the sun, moon and stars do exist outside of ancient texts.
+
+Your eyes focus on something through the winds. A large, crumbled building lay half-buried in the sand. The eerie noises have gone quiet. Nevertheless, you find yourself desperate for any form of relief from the desert. However, as you take every step closer, you realize it is not just one building, but many. A desolate array of stone and debris lie in the sand as if dead. As ominous as the scene looks, shelter is shelter.
+
+(text-colour:#91a7ff)+(text-style:"smear")[[(Enter the ruins)]]
+
+
+:: (Into a building) {"position":"1400,400","size":"100,100"}
+Climbing the stairs of the nearest building complex, the iron steps seem to cry out beneath your weight. Your panicked eyes dart around, as if you weren't the one who made the sound. A quiet wind responds, and for some reason, it soothes you. 
+
+Making your way to the first door of the complex, you knock politely. A loud thud bangs against the door as you do so. Flinching back in surprise, you cautiously ready yourself for whatever comes next.. The door slowly opens.
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Walk inside)]]
+(text-colour:#99e9f2)+(text-style:"smear")[[(Wait)]]
+
+
+:: (Keep Running) {"position":"1150,700","size":"100,100"}
+To your surprise, the rush of adrenaline does not waiver as you surge through the storm. Dusk becomes night, as you barely notice shapes looming in the distance. Why did you run? Did you think you could outrun these monsters? There's no point in dreading your past actions. You stumble forward to your knees as the shapes grow closer. Humanoid in appearance, they lumber towards you in an almost painful manner. One has glowing white eyes, while another bears a tail, and the smallest hardly seems human at all. If you had any energy left, you probably could've fended off the one with glowing eyes.
+
+They approach you, but do not attack. Why? Shouldn't you be easy prey? After what seems like a bit of communicating, the smallest being growls, as if hearing your thoughts. It lunges at you. What can you do?
+
+(text-colour:#91a7ff)+(text-style:"smear")[[Fight back]]
+(text-colour:#91a7ff)+(text-style:"smear")[[Die]]
+
+
+:: (Leave) {"position":"1675,300","size":"100,100"}
+You know better than to approach something in the dark. If this //were// a horror movie, anyone who'd chase a mysterious figure down the hall would definitely be asking for the worst. A moment later, you are back out in the unwelcoming streets.
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Continue down the street)]]
+
+
+:: (Locate the Archive) {"position":"1425,175","size":"100,100"}
+(text-colour:#d0bfff)[[The Opulence]] is not too far from where you are. It is not far from anywhere in this Delta. Even if it were, it would still have its eyes on you. You venture towards the tower, reaching the entrance to (text-colour:#ffec99)[[the Archive]]. The hollow pit in your stomach drops as you enter. A beacon of hope, this place once was. 
+
+All that is left of its interior are the remnants of the infinite knowledge Prism had acquired over many years. Documents and tablets of all kinds litter the cold, white tile. The empty darkness of the room is reminiscent of old horror films involving haunted hospitals. Though, as you take in the view, you see something dart down the hall, blanketed in shadow. What will you do?
+
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Chase the figure)]]
+(text-colour:#99e9f2)+(text-style:"smear")[[(Leave)]]
+
+
+:: (Wait) {"position":"1825,475","size":"100,100"}
+You stand in the same spot, unmoving, as if petrified to stone. Minutes pass, maybe even hours. The wind whistles, as if laughing. Staying in one place will get you nowhere.
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Walk inside)]]
+
+
+:: (Walk inside) {"position":"1600,500","size":"100,100"}
+The door opened on its own. A couple of confused blinks later, you make your way inside. Calling out is a desperate last resort, but what choice do you have? But, just like the rest of the city, there is no response. The room looks unkept, as if someone left in a hurry. Clothes are strewn about the floor and furniture, which had been tossed aside as if it weighed nothing. The wallpaper peels with mold, though the large tearing seems more worrisome. 
+
+At this point, you find no reason to stay for a moment longer. The steps groan at your return as you shamble down the stairwell. Feeling the blood pound in your ears, the empty road greets you again.
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Continue down the street)]]
+
+
+:: A wall {"position":"1425,675","size":"100,100"}
+This wall had the absolute audacity to pick a fight with you. You caused no harm to it, and were simply minding your own business. What did you do to deserve this? You glare at the wall with clenched teeth. Your flailing arms are now at your side, hands balled into white-knuckled fists. Your wrath consumes you, as you begin punching the wall with ferocity no different than a wild animal. This violence is unknown to you, yet you feel a bubble of pleasure spark through your body as the sound of bones crack. Blood trails down the wall, seeping into its cracks. 
+
+As your tantrum subsides, you hardly notice your broken hands. Your clenched teeth part slightly as you find yourself laughing. How silly, you were picking a fight with a wall! Admist your brief moment of joy, you notice how close you are to a large opening in the wall. You feel drawn to it, despite its unfamiliarity. Stumbling to the side, you peer around the debris and into the opening, recognizing this to be a breech of a Gate. How lucky, for you. An ocean of sand and rubble welcomes you, unlike the cold air of this wretched city.
+
+(text-colour:#91a7ff)+(text-style:"smear")[[Desert?]]
+
+
+:: Callie Forniya {"position":"325,675","size":"100,100"}
+(text-style:"underline")[''Callie Forniya'']
+
+Are you serious? You haven't heard of the greatest streamer in all of Delta: Prism??
+Ok.. Well.. Callie is actually a popular urbex streamer that makes her content surrounding (text-colour:#ffec99)[[Dry Zones]], which have garnered her a lot of popularity. Her and her co-host, (text-colour:#ffec99)[[Scuffy]], valiantly run through abandoned buildings and labs alike with the goal of being as entertaining as possible. 
+
+This dynamic duo have managed to evade the authorities for so long, it was only a matter of time before they got caught. Once reprimanded, Callie became a watchdog for the [[Triad]] against her own will. Her content dwindled, any mention of the Dry Zones would only be associated with warnings. Unfortunately, due to her circumstance, she has become nothing more than a variety streamer for the masses. Oh, how the mighty have fallen.
+
+
+:: City skyline {"position":"725,775","size":"100,100"}
+You find yourself on the rooftop of your apartment. The neon lights of Prism should be what you see before you. This is normal. There hasn't been any light in hours, much less the noise of a busy city. The eerie silence does not keep you from appreciating the view, however.
+
+The silhouette of every apartment and skyscraper seem to blend together, as if lacking identity. Having lived here for so long, you thought you'd be able to recognize each of them without the aggressive lighting. This is normal. Even (text-colour:#91a7ff) [[The Opulence]] somehow looks unrecognizable, despite towering over every building in the city. 
+
+This is normal. Well, at least from what you've read up on. You should have nothing to fear. Despite this, the itch to look on social media for updates cannot be scratched, causing you to fidget in place. You look over the edge of the railing, finding trashed vehicles, broken glass and maybe even a body? This is normal. 
+
+You stare back at the Opulence for a minute, as if for guidance. You wonder why us (text-colour:#91a7ff)[[Prismatics]] put so much respect on something as silly as just another tower. This is normal. You see a small light flicker for a brief moment, convincing yourself that it was just a trick of the eye. A distant noise rings out in that direction, must be a riot. This is normal. Another flicker, and the Opulence illuminates with blinding light. You want to shut your eyes, but you're enamored by the glow. This is normal. A gentle smile creeps to your lips, as your eyes begin to well with tears. One by one, buildings begin to glow once more, as if given permission. Cheers ring out from below, as people begin to fill the streets. This is normal. The city lives again.
+
+(text-colour:#e9ecef)[End]
+
+
+:: Clumps {"position":"2200,375","size":"100,100"}
+(text-style:"underline")[''Delta: Ruin'']
+
+Masses of various sizes have been spotted far outside the domes. They resemble tar pits, dark and bubbling with activity. It has been deemed too dangerous to investigate further, due to the hostile environment. 
+
+From a distance, traders in shipments have noted that the pits seem to move,  finding that they are not always in the same location as time passes. Also mentioned were small blobs that seem to occasionally burst, no matter the size. They have been found merging together into what has now been referred to as a "clump". These clumps are not to be approached, as there is not enough information regarding the nature of their existence. Hostility aside, anything outside of our walls is to be regarded with extreme caution. 
+
+
+:: Continue Chasing {"position":"1800,125","size":"100,100"}
+As you take a step forward, a blinding light assaults you, though not from where you expected. The hallway has only brightened a couple of feet, as you turn to face the entrance of the Archive. Such a surprise has distracted you from your prey. What were you chasing again? A familiar neon light rains down from above, but you have come to despise it. You turn away and run down the dark hallway. The emptiness envelops you like a warm embrace, as voices and cries of joy ring out behind you. Everyone looks to be happy with the way things turned out, even you.
+
+
+(text-colour:#e9ecef)[End]
+
+
+:: Delta: Prism {"position":"300,500","size":"100,100"}
+Delta: Prism is a cyber-themed cityscape in which the streamer, (text-colour:#74c0fc)+(text-style:"smear")[[Callie Forniya]], resides in. It is roughly 384,000 sq mi. Those that reside in Prism are known as Prismatics. They are distinguished and identified by a barcode located on their body at 18 years of age. 
+
+As with any other Delta, immigrants make up a small percentage of the Delta’s population, and are relatively oppressed. Prism’s views of immigrants or tourists vary between social status, but most wealthy Prismatics actually provide support and opportunities to the immigrants. The lower class of Prismatics feel no shame when engaging in illegal activities, despite the harsh repercussions. Prism is known for being the Delta with the highest rate of criminal and underground activity. The currency for Prism is the Chipp. They are generally transferred via barcode, and physical currency is often viewed as fraud.
+
+Many buildings within the Delta range between skyscrapers, apartments and stores littered throughout. The tallest skyscraper is 189m tall, known as (text-colour:#d0bfff)+(text-style:"smear")[[The Opulence]]. The buildings are built of mainly a furnished steel with reflective glass. The most popular buildings of interest include clubs, cyber cafés and bars. Despite what residences of other Deltas like to believe, Prism does not use flying cars, or any other vehicle. Many roads are paved as any other, with enhancements under the concrete to control traffic. Due to these advancements, accidents are very few, and hardly caused by other vehicles. All vehicles are electrically charged, and make little to no noise, though the streets are never quiet.
+
+Housing consists of 90% apartment buildings. Those that live near the center of the cityscape are in more danger than the outer edge, due to illegal activity being common and hard to contain safely. Apartment rooms are generally small in size(330sq ft on average), but can be extended out over the streets by another 100sq ft, if you happen to buy one with a balcony. A major highlight of the rooms is the ability to change with a press of a button. A bedroom can be converted into a bathroom or kitchen, all decorations and furniture intact as before. Regular houses, however, do not have the same function. Houses are limited to the wealthy, and reside on the near outskirts of the Delta, as opposed to the center. While the gates between the (text-colour:#ffe8cc)+(text-style:"smear")[[Dust]] and Deltas can be seen as dangerous, in the 137 years of Prism's existence, the Triad have only reported one incident regarding a (text-style:,"shudder")+(text-colour:#e03131)[[defect]], in which they were quickly restrained.
+
+
+:: Desert? {"position":"1025,575","size":"100,100"}
+You find yourself admist a blurry sea of sand and dust. Your eyes beg to close, but you find it necessary to hold your arm up. The harsh wind whips around your hands, but you press onward. You have always heard stories of heroes travelling vast desert expanses such as these. Whose to say you couldn't do the same? The sandstorms are unrelenting however, sapping more of your energy with every passing moment. You search the horizon for shelter, an oasis, anything. The mountain's stony gaze makes you avert your eyes, or maybe it was just the dust.
+
+As dusk sets, you realize it is the real sun setting. Those artificial (text-colour:#ffec99)[[domes]] had you nearly forgetting what lied beyond them. With a soft sigh, your moment of trainquility is interrupted by a guttural howl. You whip around, weak eyes widened with adrenaline. More howls follow, unnatural in nature. It could only mean one thing. With limited visibilty, you take a risk and burst into a sprint. The sand swallows your feet with each step as the howls grow ever closer. What will you do?
+
+
+(text-colour:#91a7ff)+(text-style:"smear")[[(Keep Running)]]
+(text-colour:#91a7ff)+(text-style:"smear")[[(Find Shelter)]]
+
+
+:: Die {"position":"1275,825","size":"100,100"}
+you want to die
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+but your body doesn't.
+
+
+:: Dry Zones {"position":"325,800","size":"100,100"}
+(text-style:"underline")[''Dry Zones'']
+
+A Dry Zone is a slang term for an area within Delta: Prism that has been contaminated by the (text-colour:#ffec99) [[Dust]]. Most common dry zones include factories and research facilities, all which have been abandoned years ago. The air is toxic, riddled with harmful radiation that threatens the average individual. You are able to recognize a Dry Zone by the brownish-yellow particles in the general area, as well as the occasional 2-8ft tall creature. It is a safety precaution (and common sense) to not venture into any area that is labeled as a Dry Zone. Trespassing will have dire consequences.
+
+
+:: Dust {"position":"175,675","size":"100,100"}
+(text-style:"underline")[''The Dust'']
+
+The toxic residue of what remains from the nuclear world war that destroyed the planet. It has lain waste to anything that moves, and is considered impossible to live in. Chronids compare the air quality to be similar to the planet Venus, if only a little less toxic. As a result of this, malformed beasts and monsters have splurged from the dankest depths of the wastelands. Smaller Deltas are more susceptible to invasions, but are generally safe within their walls due to the mech force created by the Chromatics. Despite years of study, there is very little known about these monster’s motives, other than insanity-driven violence and the mutations that come with it.
+
+
+:: Fight back {"position":"1125,825","size":"100,100"}
+The creature nearly jumps into your arms as a child would with its mother. However, this child has claws that aren't afraid to rip into you. You fall on your back from the impact, wrestling with the small beast, as the other two figures seem to holler and howl with excitement. With your monstrous size, the creature gets one good bite into your forearm before it is thrown like a ragdoll into the sand beside you. It squirms and flails under you, as your large frame casts a shadow from real moonlight. You press your arm down, against what you believe to be its neck. It gurgles and sputters, as if looking to speak, but these monsters can't speak anymore. With increasing pressure, the body begins to sink below the sand. The creature slowly stops writhing beneath you.
+
+
+(text-colour:#91a7ff)+(text-style:"smear")[[Turn]]
+
+
+:: I'll be fine {"position":"725,75","size":"100,100"}
+You look a little worse for wear. Are you certain?
+
+
+(text-colour:#91a7ff)+(text-style:"smear")[[What do you mean?]]
+
+(text-colour:#91a7ff)+(text-style:"smear")[[I'm fine.]]
+
+
+
+:: I'm fine. {"position":"550,0","size":"100,100"}
+(text-style:"tall","shudder")[''[(text-colour:#e03131)[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+HELPMEOHGODITHURTSTHEPAINISUNBEARABLEIFEELMYSKINBURNINGOFFMYFLESH
+THISBODYISNTMINEIDONTFEELSAFEHEREWHEREDIDEVERYONEGOSOMEBODYHELPMEOHGODITHURTSTHEPAINISUNBEARABLEIFEELMYSKINBURNINGOFFMYFLESHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATHISBODYISNTMINEIDONTFEELSAFEHEREWHEREDIDEVERYONEGOSOMEBODYAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]'']
+
+
+:: Io {"position":"2000,100","size":"100,100"}
+(text-style:"underline")[''The Siren'']
+
+Love hurts, but only if you let it.
+
+Not just a pretty face, Io is a talented performer known across the largest of Deltas. With all of the stress of the world, any form of entertainment is in high demand. Io has dominated the music industry with his Siren's song, leaving his fans in a nearly hypnotic state! However, much to their dismay, Io has recently been seen in public with the popular streamer (text-colour:#74c0fc)[[Callie Forniya]]. Rumors state that hopefully they are nothing more than friends in the enternainment industry..
+
+Despite one of the biggst popstars in the world, he has also shown his willingness to support his community within Delta: Prism! A known leader of the Triad, Io displays compassion and reassurance to those who live in fear of the Kirin's reign. It only takes a loving smile to make those around forget everything! 
+
+
+
+:: Kirin {"position":"2325,0","size":"100,100"}
+(text-style:"underline")[''The Kirin'']
+
+Beauty is only challenged by your ugly idea of perfection.
+
+Odyn, formally known as the Kirin, is the head of the (text-colour:#d0bfff)+(text-style:"smear")[[Triad]], as well as Delta: Prism as a whole. Renowned for his all-knowing leadership, the Kirin is respected as one would out of fear. A tyrant at such a youthful age, the handsome man is the embodiment of absolute perfection. Neither citizen nor nation would be foolish enough to challenge his ideals. Prism thrived before him, but it had only approved since his reign. As with every new election, the newest leader improves upon the pinnacle of technological advances that is Delta: Prism.
+
+With the secretive operation that is the Triad, the Kirin is able to follow every movement on his streets from the peak of the Opulence. Without the assistance of the Triad, the Kirin would not be able to rule with such an iron fist. This has not stopped people from trying. Unfortunately, what remains of those attempts are classified. Odyn had not only earned his position of power, but, in his eyes, had deserved it. While some of his claims seem inane, they all seemingly happen, one way or another. Despite his obsidian (text-colour:#343a40)+(text-style:"smear")[[horns]], no one would dare question his purpose for existing. It is only natural to fear something as inhuman as perfection.
+
+
+
+:: No {"position":"525,575","size":"100,100"}
+It seems you are confused with your surroundings.
+What do you see before you?
+
+
+(text-colour:#99e9f2)+(text-style:"smear")[[City skyline]]
+
+(text-colour:#99e9f2)+(text-style:"smear")[[Desert?]]
+
+(text-colour:#99e9f2)+(text-style:"smear")[[darkness]]
+
+
+:: Prismatics {"position":"725,900","size":"100,100"}
+(text-style:"underline")[''Prismatics'']
+
+The term used to address residents of Delta: Prism. There are also slang terms used such as "Prismas", "Prisms" or "Triangle heads". 
+
+As with any Delta resident, Prismatics function as regular members of society, no matter what they're involved in. Those tainted by the (text-colour:#ffec99)[[Dust]] are referred to as "Junkies", though other Deltas have varying names for the afflicted. 
+
+
+:: Ruin {"position":"1075,0","size":"100,100"}
+
+(text-style:"underline")[''Delta: Ruin'']
+
+The Delta flourishing with life. History may paint landscapes and scenery as perfection, but Ruin had ascended past that. Everything that the Earth provided was improved upon through the efforts of Ruinians. As with other Deltas, Delta: Ruin specializes in a certain field of humanity’s survival. It is the most important, therefore largest, Delta on the planet due to its vast knowledge of agriculture and environmental engineering.  With population density of 4 people per square mile among a 3million square mile radius, a lot of the land is dedicated to cultivation of the Earth. Nearly all larger societal areas are considered a city or capital. Most civilizations reside in villages spread out through the Delta, catered to a specific form of agriculture. While mining and fuel extraction exist throughout, Ruin is commonly referred to as a farming and vegetation outlet.
+
+From steep, mountainous ranges to flat terraced fields, the environment is full of lush land and soil to effectively produce any necessity. Maintaining farm life is the most basic form of labor throughout Ruin. This also includes preservation of wildlife. Forests, jungles and taigas are just a few of many biomes grown and maintained within a precise border of the Delta. With the involved technology provided by other Deltas, Ruin has been able to scientifically balance wildlife so that humans and nature can live coherently. 
+
+
+:: Scuffy {"position":"450,800","size":"100,100"}
+(text-style:"fade-in-out")+ (align:"=><=")+(box:"X")[a fcuking rat]
+
+
+:: Start {"position":"425,375","size":"100,100"}
+Welcome to the world of (text-colour:#a5d8ff)+(text-style:"smear")[[Delta: Prism]]
+Is it familiar to you?
+
+
+(text-colour:#99e9f2)+(text-style:"smear")[[Yes]]
+
+(text-colour:#99e9f2)+(text-style:"smear")[[No]]
+
+
+:: The Opulence {"position":"1425,0","size":"100,100"}
+(text-style:"underline")[''The Opulence'']
+
+Towering the skyline, the Opulence is the most recognizable and important structure in Delta: PRISM. Being a 189m skyscraper, the building overlooks the entirety of the Delta. It is at the center of it all, a shining beacon of perfection among the perpetually insignificant cityscape. The structure is slim, as not to take up space among the crowded streets. Decorating the peak of the building is the Prismatic symbol, radiating with a hypnotic, neon light. The Opulence’s purpose is to provide ~~three~~ two major sectors within its walls, all important in their own right. These sectors include the Archive and the Triad’s headquarters. There have been rumors of a third sector. Disregard any information of such a topic and report it to the authorities, immediately. There is no third sector.
+
+Members of Prism’s defense operative report to sectors above the Archive. This division has 50 floors for that reason. Prism operative ranges from medics, to field teams, to bomb diffusers. Every department has around 5-10 dedicated floors depending on its significance. Experiments are restricted to the Opulence only, ever since the implosion of testing facilities on the outer ridge of the Delta. These experimental floors fill the majority of the Opulence. At the penthouse of the Opulence resides the (text-colour:#d0bfff)[[Triad]]. Council and political meetings are held by the (text-colour:#a5d8ff)[[Kirin]] at an undisclosed location within the facility. It is said that the Triad floors are hard to pin down, as if they are constantly being rearranged. Those granted access to this level of the Opulence are allowed to rest overnight. The Kirin has cleansed the enforcement operatives of snakes and criminal activity, making it a safe haven for the trustworthy. This allows for a lot of overtime work, as it is sometimes required for such a prestige Delta. The only documented Triad member who resides within the building 24/7 is the (text-colour:#8ce99a)[[Wyvern]]. Other Triad members are rarely seen throughout the building by the public.
+
+Without the Opulence, Delta: PRISM would be thrust into an age of violence and disorder. Riots would fill the streets and criminal activity would skyrocket. However, any threat of terrorism has been immediately shutdown, snuffed out before the public could catch wind. This is all due to the Kirin’s actions and clairvoyance of his Delta. And everyone knows that opposing the Opulence, means opposing the Kirin.
+
+
+:: Triad {"position":"2125,0","size":"100,100"}
+
+(text-style:"underline")[''The Triad'']
+
+A police force enlisted for the protection of the [[Prismatics]]. The Triad, led by 3 powerful leaders, consist of cyborg weaponized militia that enforce aggressive methods of restraint among civilians. Most Prismatics have no issue with them, unless they are on the right side of the law. Some say the Triad has more power than the Prismatic government. 
+
+"The Siren's Sorrow" is publicly recognized as the popular idol, (text-colour:#eebefa)[[Io]], outside of the force. The main leader, Odyn, is known as “the Kirin’s Tears”. The final leader, only labeled as "the (text-colour:#8ce99a)[[Wyvern]]", has never been seen with the others, and some believe they don’t even exist. 
+
+
+:: Turn {"position":"1125,975","size":"100,100"}
+As the copious amounts of drool drip from your maw with heavy breath, you snap your attention back to the other two figures. You notice one has lowered itself on all fours, its tail flicking back and forth cautiously. The one with glowing eyes hasn't moved. It just stares at you. Is it taunting? How dare you try to intimidate me, as I stand over your fallen kin, you growl at the beast. But no words came out. The glowing eyes finally break from your gaze to look behind at its crushed comrade in the sand. 
+
+You approach the figure, as the other hisses up at you fearfully. The white eyes settle back on you. Despite looking the most human of the bunch, you are significantly taller, craning your head down to look at them. The tense silence is broken by the howling sandstorm, alongside howling creatures once more. The glowing eyes close, and it turns to walk away. The other skitters off to its partner's side.
+
+The dark night air mixed with cool sand calms you, as you slump your shoulders in relief. You look up at the moon, barely visible as the wind threatens to damage your eyes. You continue to stare anyway, a content smile on your bloodied face.
+
+(text-colour:#e9ecef)[End]
+
+
+:: What do you mean? {"position":"900,200","size":"100,100"}
+You look down at your feet, realizing they're calloused and filthy. The baggy pants you don't recall buying have been torn to shreds, as if by an [[animal]]. It's a wonder that they're still in one piece, as is your body. Caked in dried blood that you are convinced is not your own, you tremble at the sight. 
+
+You don't recall, do you?
+
+
+(text-colour:#91a7ff)+(text-style:"smear")[[What's happened to me?]]
+
+
+:: What's happened to me? {"position":"1050,200","size":"100,100"}
+As you look around, your eyes adjust to what you now realize is (text-style:"smear")+(text-colour:#99e9f2)[[darkness]]. Your skin begins to burn with adrenaline, as saliva nearly drips from your hanging jaw. You run down the city streets, eyes wide. The towering (text-colour:#99e9f2)+(text-style:"smear")[[skyscrapers]] that would once shower you in neon light, now loom hauntingly over your hunched frame.
+
+
+
+:: Where should I go? {"position":"725,175","size":"100,100"}
+Where should I go?
+
+
+(text-colour:#91a7ff)+(text-style:"smear")[[City skyline]]
+(text-colour:#91a7ff)+(text-style:"smear")[[Desert?]]
+(text-colour:#91a7ff)+(text-style:"smear")[[darkness]]
+
+
+:: Wyvern {"position":"2225,0","size":"100,100"}
+(text-style:"emboss")[ILL KILL THAT BITCH!! HER AND HER STUPID RAT!!!!]
+
+(text-colour:(hsl:0,0.8039,0.5,0.3))
+[01101001 
+01101101 
+00100000 
+01111001 
+01101111 
+01110101 
+01110010 
+00100000 
+01100010 
+01101001 
+01100111 
+01100111 
+01100101 
+01110011 
+01110100]
+
+(text-colour:(hsl:0,0.8039,0.5,0.3))
+[01000110 
+01000001 
+01001110 
+00001010 
+00001010]
+
+
+:: Yes {"position":"525,175","size":"100,100"}
+Then you know that you shouldn't be here.
+
+
+(text-colour:#99e9f2)+(text-style:"smear")[[I'll be fine]]
+
+(text-colour:#99e9f2)+(text-style:"smear")[[Where should I go?]]
+
+
+:: animal {"position":"900,75","size":"100,100"}
+Many domesticated animals have been endangered and sought after for many years. Most fauna resides in the environmental Delta, (text-colour:#8ce99a)+(text-style:"smear")[[Ruin]]. Wild and dangerous animals have not roamed freely since the Dust stormed through. The wounds you bear only begin to sting as you take notice to them. Ragged gashes deep enough to hospitalize you are enough to convince you of something everyone is certain of. One look at you, and most would run until their legs gave out. Even then, they would crawl, just to get a centimeter further from you.
+
+
+:: darkness {"position":"1025,375","size":"100,100"}
+No.. This isn't right.. 
+
+The once vibrant utopia of Prism has suddenly gone silent. When did this happen? You cannot recall.. For all of your life, the hustle and bustle of the greediest Delta had been nothing but white noise to you. The silence is deafening..
+
+Where will you go? 
+
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Into a building)]]
+(text-colour:#99e9f2)+(text-style:"smear")[[(Continue down the street)]]
+(text-colour:#99e9f2)+(text-style:"smear")[[(Locate the Archive)]]
+
+
+:: defect {"position":"2225,225","size":"100,100"}
+Due to the lack of total control over Delta: Prism, there have been a number of outbreaks throughout the city. These outbreaks were initially caused by radioactive practices between Prismatics and Chromas, but soon became a product of sabotage for mutated residents called Defects. These mutated deviants are obsessed with the effects of the radiation, and are worse off than those that used mandated drugs. If a Defect is caught, it is exiled to the Dust to rot. 
+
+Some defects consider it a dream of theirs to be exiled. Even the slightest sign of radiation exposure (deformities, excess fluid, unnatural speech, etc.) can be considered enough to be reprimanded. (text-colour:#91a7ff)+(text-style:"smear")[[Clumps]] of defects have been found more frequently as of this post.
+
+
+
+:: domes {"position":"1025,700","size":"100,100"}
+A dome is that which protects every Delta from the outside elements. Artifically manufactured by the Chromatics, they serve their purpose without error. Their curved panels refract the harsh winds of the Dust, as regular glass panes could not. Due to this necessity, all domes are built with the intent to be indestructible. To this day, that remains true. However, those who live inside the domes are unable to bear witness to the outside world, though there would not be much to see anyhow. 
+
+To fulfill the immersion of the sky and its horizon, the panels have the ability to display AI generated footage of what the view would look like. This is achieved by referring to historically accurate weather reports and applying them to the modern day or night. To help fulfill this vision, snow and rain are also occasionally sprayed by nozzles fitted between the panels.
+
+
+:: horns {"position":"2225,100","size":"100,100"}
+Anyone with eyes could recognize a (text-style:,"shudder")+(text-colour:#e03131)[[defect]] when they see one.
+
+
+
+
+:: skyscrapers {"position":"1225,175","size":"100,100"}
+they look down on what a pitiful sight you have become
+(text-colour:black)[?pu hgih os gnieb evah uoy dluow esoprup tahw]
+
+
+
+
+:: the Archive {"position":"1525,0","size":"100,100"}
+(text-style:"underline")[''The Archive'']
+
+The base of the Opulence is open to the public, serving as a haven for documentation and records of PRISM. This Archive acts as a library, as well as a facility for information that isn’t available without permission. Most of the information you may find in the Archive will involve Delta: PRISM and its history. However, there are plenty of logbooks and guides on neighboring Deltas. While libraries are recommended for the youth, they are scarce, so the Archive also provides educational material where it can. Most information can be stored on hard-drives or discs, though the distribution of any material found in the facility is prohibited. 
+
+To prevent illegal activity, every piece of media has a tracking chip, that when removed, will cause the material to explode. This explosion is not recommended, as it may cause damage to any living creature in the vicinity. Visual media of materials and their contents have been distributed online to bypass these restrictions, though Prismatics don’t find much interest in the action, beyond the thrill of doing something illegal. While the Opulence is important for the Delta, the public Archive is nothing more than another place to research or take shelter in.
+
+(text-colour:#99e9f2)+(text-style:"smear")[[(Locate the Archive)]]
